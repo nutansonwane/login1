@@ -1,0 +1,70 @@
+.div1
+{
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    color: aqua;
+    display: flex;
+    
+}
+
+.div2
+{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    text-align: left;
+    border: 20px;
+    width: 30%;
+    height: 60%;
+    margin: auto;
+    display: flex;
+    flex: 50%;
+    flex-direction: column;
+    border: 20;
+    border-color: black;
+    
+}
+.div3 {
+    width: 25%;
+    height: 63%;
+    margin: auto;
+    flex: 50%;
+    flex-direction: column;
+    margin-right: 100PX;
+    border: 20;
+    border-color: black;
+}
+input[type=password], select {
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 8px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    box-sizing: content-box;
+
+    
+  }
+  input[type=Email], select {
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 8px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    box-sizing: content-box;
+  }
+  .div21{
+    background-color: blueviolet;
+    margin: 10px 10px;
+    padding: 0.0px;
+    border: solid #ccc;
+    border-radius: 10px;
+    color:#ccc;
+    text-align: center;
+    
+  }
+  
